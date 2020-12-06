@@ -1,15 +1,14 @@
-# How to run YOLO
-Object Detection with YOLO (You Only Look Once). To run YOLO, first download the pretrained weights in the linked google drive (237 MB) and move the weights to the folder "yolo-coco".
-https://drive.google.com/file/d/1sbrSFwp4lAgVVDKijGf7hlIzcDbu7Eu_/view?usp=sharing
-### Within command prompt, to run YOLO on an image use: 
+#### Object Detection with YOLO
+YOLO (You Only Look Once) is a state-of-the-art object detection algorithm that is incredibly fast and accurate. In this repo, you can use YOLO to detect different images and videos. 
+### How to Setup YOLO
+In order to setup YOLO, you need to open your command promt to run the following codes:
+## Image Detection: 
 ```
-$ python yolo.py --image "IMAGE PATH" --yolo yolo-coco
+$ python yolo.py --image "PATH OF YOUR IMAGE" --yolo yolo-coco
 ```
-### For videos, use: 
+## Video Detection: 
 ```
-$ python yolo_video.py --input "VIDEO PATH" --output "OUTPUT PATH" --yolo yolo-coco
+$ python yolo_video.py --input "PATH OF YOUR VIDEO" --output "OUTPUT PATH" --yolo yolo-coco
 ```
-Read my article on yolo: https://medium.com/@sigilwen/object-detection-with-yolo-bringing-vision-to-self-driving-cars-980295226830
-#### Watch my Video Demo of YOLO(VSauce Parody):https://www.youtube.com/watch?v=AxhBu2uK86I 
 
-Code adopted from PyImageSearch 
+
