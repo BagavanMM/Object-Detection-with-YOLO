@@ -5,7 +5,7 @@ Make sure to download the pretrained weights using the link bellow:
 https://drive.google.com/file/d/111qp0mcuuQvu34f7a1YJ08AzNd1DNKuw/view?usp=sharing
 <br />
 **Put weights file into *yolo-coco* folder**
-Make sure to *git clone* this repo as well, so you can get all the libraries needed to continue.
+<br />Make sure to *git clone* this repo as well, so you can get all the libraries needed to continue.
 Open up your command prompt and use the following code(s) depending on you want to detect.
 
 ### Image Detection: 
