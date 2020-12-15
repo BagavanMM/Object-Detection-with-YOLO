@@ -17,3 +17,15 @@ Open up your command prompt and use the following code(s) depending on you want 
  python yolo_video.py --input "PATH OF YOUR VIDEO" --output "OUTPUT PATH" --yolo yolo-coco
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+This code was created using the PyImageSearch Tutorial:https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
