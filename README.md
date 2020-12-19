@@ -28,4 +28,4 @@ Open up your command prompt and use the following code(s) depending on you want 
 
 
 
-This code was created using the PyImageSearch Tutorial:https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
+This project was inspired by the PyImageSearch YOLO tutorial
